@@ -1,0 +1,10 @@
+# 1. Ignore large data folders
+data/
+results/
+
+# 2. Ignore temporary files
+.ipynb_checkpoints/
+__pycache__/
+
+# 3. Ignore installer scripts
+*.sh
