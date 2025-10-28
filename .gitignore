@@ -1,10 +1,13 @@
-# 1. Ignore large data folders
-data/
-results/
+# 1. Ignore large QIIME 2 artifacts
+results/**/*.qza
+results/**/*.qzv
 
-# 2. Ignore temporary files
+# 2. Ignore large data folders
+data/
+
+# 3. Ignore temporary files
 .ipynb_checkpoints/
 __pycache__/
 
-# 3. Ignore installer scripts
+# 4. Ignore installer scripts
 *.sh
