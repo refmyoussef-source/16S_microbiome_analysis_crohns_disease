@@ -13,7 +13,7 @@ Our analysis successfully identified a significant and robust **phylogenetic dys
 
 1.  **Beta Diversity (Overall Composition):** We found a highly significant difference in overall community structure between Crohn's and Healthy groups (**p-value = 0.0007**). The PCoA plot below shows a clear separation, with Healthy controls (blue) clustering tightly, while CD patients (red) are highly dispersed and separate.
 
-    ![PCoA Plot of Beta Diversity (Unweighted UniFrac)](./results/10_exported_results/pcoa_unweighted_unifrac.png)
+    ![PCoA Plot of Beta Diversity (Unweighted UniFrac)](results/10_exported_results/pcoa_unweighted_unifrac.png)
 
 2.  **Alpha Diversity (Internal Diversity):** This is the key finding. We found that:
     * **Phylogenetic Diversity (Faith's PD):** Was **significantly lower** (q=0.0006) in CD patients.
@@ -23,7 +23,7 @@ Our analysis successfully identified a significant and robust **phylogenetic dys
 
     | Faith's PD (Phylogenetic) - **Significant** | Shannon's Index (Non-Phylogenetic) - **Not Significant** |
     |:---:|:---:|
-    | ![Faith's PD Boxplot](./results/10_exported_results/alpha_diversity_faith_pd.png) | ![Shannon's Index Boxplot](./results/10_exported_results/alpha_diversity_shannon.png) |
+    | ![Faith's PD Boxplot](results/10_exported_results/alpha_diversity_faith_pd.png) | ![Shannon's Index Boxplot](results/10_exported_results/alpha_diversity_shannon.png) |
 
 ---
 
