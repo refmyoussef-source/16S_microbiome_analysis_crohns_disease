@@ -1,5 +1,5 @@
 # 16S rRNA Microbiome Analysis: Crohn's Disease
-![Project Banner](https://i.imgur.com/g0t9sYc.png)
+
 
 This repository contains a complete 16S rRNA microbiome data analysis pipeline, from raw sequencing data (`.fastq`) to final statistical analysis and publication-quality visualizations. The project analyzes the gut microbiome composition in patients with Crohn's Disease (CD) compared to healthy controls.
 
